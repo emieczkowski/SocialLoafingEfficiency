@@ -20,15 +20,18 @@ Before you begin, ensure you have both Conda and pip installed on your system. Y
 
 Start by cloning this repository to your local machine. Use the following command:
 
+```bash
 git clone https://github.com/yourusername/socialloafing.git
 cd socialloafing
 
 **2. Create conda environment**
 
+```bash
 conda create -n socialloafing python=3.9
 
 **3. Activate the environment**
 
+```bash
 conda activate socialloafing
 
 **4. Install requirements**
